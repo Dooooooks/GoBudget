@@ -54,6 +54,7 @@ Terminal 1 (frontend dev server):
 
 ```bash
 npm install
+npm run build
 npm run dev
 ```
 
